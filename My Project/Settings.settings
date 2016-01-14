@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="printBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\S2POTBB\Printbox\</Value>
+    </Setting>
+    <Setting Name="logfldroot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\S2POTBB\flog\</Value>
+    </Setting>
+    <Setting Name="backuproot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\S2POTBB\backup\</Value>
+    </Setting>
+    <Setting Name="runtimeroot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\S2POTBB\runtime\</Value>
+    </Setting>
+    <Setting Name="pdfviewerpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Sumatra\sumatrapdf.exe</Value>
+    </Setting>
+    <Setting Name="cpdfpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CPDF\cpdf.exe</Value>
+    </Setting>
+    <Setting Name="printboxlogfld" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\S2POTBB\Printbox\log\</Value>
+    </Setting>
+    <Setting Name="printServer1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\SPHIS50</Value>
+    </Setting>
+    <Setting Name="printQueue1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A06LABR1</Value>
+    </Setting>
+    <Setting Name="fldNameList" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;OT_LABBB&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="fldPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\SPHAS30\prescription$\OT_LAB_BB\</Value>
+    </Setting>
+    <Setting Name="printerName1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\SPHIS50\A06LABR1</Value>
+    </Setting>
+    <Setting Name="OUbkpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\SPHAS30\prescription$\OT_LAB_BB\</Value>
+    </Setting>
+    <Setting Name="OUbksuffix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">_BACKUP</Value>
+    </Setting>
+    <Setting Name="taskfrq" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
