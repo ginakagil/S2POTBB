@@ -9,7 +9,6 @@ Imports System.Printing
 'trotter 0 byte pdf bypass
 'reduced wait time
 'rename duplicate backup file names
-
 'All Paths ends with "\"
 
 Public Class S2P
